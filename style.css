@@ -29,6 +29,7 @@
 }
 .nav12{
     display: flex;
+    /* margin: 0; */
     align-items: center;
     gap: 10px;
 }
